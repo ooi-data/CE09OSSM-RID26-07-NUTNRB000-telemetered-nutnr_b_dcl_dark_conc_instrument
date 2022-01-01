@@ -1,5 +1,5 @@
 data_ready: false
 data_stream: CE09OSSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_dark_conc_instrument
-last_request: '2021-12-21T23:18:48.913677Z'
+last_request: '2022-01-01T02:49:18.783634Z'
 response: https://raw.githubusercontent.com/ooi-data/CE09OSSM-RID26-07-NUTNRB000-telemetered-nutnr_b_dcl_dark_conc_instrument/main/history/response.json
 status: discontinued
